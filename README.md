@@ -1,5 +1,3 @@
-Sure thing! Here's the updated README.md with emojis:
-
 # MongoSpeakApp 🎓🇲🇽 🇺🇸
 
 A fusion of MongoDB, gTTS, LangChain, and Streamlit to improve your spoken English.
@@ -40,7 +38,7 @@ I employed a range of tools and packages to construct this app, each playing a c
 - **PyMongo**: A Python library seamlessly integrated with MongoDB, facilitating smooth interaction with the database 🐍
 - **Streamlit**: An interactive web app framework for Python, providing a user-friendly interface and enhancing the overall user experience 🌐
 - **gTTS**: A powerful library for converting text to speech, contributing to the audio component of the application 🔊
-- **Tempfile** creates temporary sound files on-the-fly, optimizing resource usage in MongoSpeakApp. It facilitates dynamic audio generation and manipulation, enhancing the application's overall performance. 📁
+- **Tempfile**: creates temporary sound files on-the-fly, optimizing resource usage in MongoSpeakApp. It facilitates dynamic audio generation and manipulation, enhancing the application's overall performance. 📁
 - **LangChain**: A custom-built language processing framework that augments the app with advanced linguistic capabilities, enabling the generation of contextually rich sentences 📖
 
 ---
@@ -52,7 +50,7 @@ To embark on your language learning journey with MongoSpeakApp, follow these ste
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/MongoSpeakApp.git
+   git clone https://github.com/adinmg/MongoSpeakApp.git
    ```
 
 2. Install the required dependencies:
