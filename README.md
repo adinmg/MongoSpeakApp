@@ -2,6 +2,9 @@
 
 A fusion of MongoDB, gTTS, LangChain, and Streamlit to improve your spoken English.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mongospeakapp.streamlit.app/)
+
+
 ---
 
 ## About MongoSpeakApp 🌟
@@ -26,7 +29,9 @@ MongoSpeakApp is a language learning tool that leverages MongoDB for data storag
 
 ## Try MongoSpeakApp 🌐
 
-Experience MongoSpeakApp on Streamlit Cloud. Visit [your Streamlit Cloud link here].
+Experience MongoSpeakApp on Streamlit Cloud
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mongospeakapp.streamlit.app/)
 
 ---
 
