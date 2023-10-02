@@ -21,8 +21,8 @@ def MongoDBConnector():
 @st.cache_data(show_spinner="Fetching data from database...")
 def load_sections(section):
     with MongoDBConnector() as collection:
-        json_data = list(collection.find({'section': section}, {'_id':0}))
-    return json_data
+        result = list(collection.find({'section': section}, {'_id':0}))
+    return result
 
 
 def append_new_exercise(new_exercise, section_name, subsection_number):    
