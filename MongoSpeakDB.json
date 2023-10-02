@@ -1,0 +1,639 @@
+[
+  {
+    "section": "Lesson 1",
+    "subsection_number": 1,
+    "subsection_name": "Negative Questions",
+    "instruction": "Listen to each track and formulate a question using the word 'why' to inquire about the reason behind the statement.",
+    "language": "en",
+    "exercises": [
+      {
+        "exercise_number": 1,
+        "sentence": "He doesn't like fish.",
+        "answer": "Why doesn't he like fish?"
+      },
+      {
+        "exercise_number": 2,
+        "sentence": "I don't like spinach.",
+        "answer": "Why don't you like spinach?"
+      },
+      {
+        "exercise_number": 3,
+        "sentence": "I don't go to class.",
+        "answer": "Why don't you go to class?"
+      },
+      {
+        "exercise_number": 4,
+        "sentence": "I don't want to argue.",
+        "answer": "Why don't you want to argue?"
+      },
+      {
+        "exercise_number": 5,
+        "sentence": "I don't speak French.",
+        "answer": "Why don't you speak French?"
+      },
+      {
+        "exercise_number": 6,
+        "sentence": "I don't come here often.",
+        "answer": "Why don't you come here often?"
+      },
+      {
+        "exercise_number": 7,
+        "sentence": "He doesn't like you.",
+        "answer": "Why doesn't he like me?"
+      },
+      {
+        "exercise_number": 8,
+        "sentence": "She doesn't smile much.",
+        "answer": "Why doesn't she smile much?"
+      },
+      {
+        "exercise_number": 9,
+        "sentence": "It doesn't make sense.",
+        "answer": "Why doesn't it make sense?"
+      },
+      {
+        "exercise_number": 10,
+        "sentence": "He doesn't understand.",
+        "answer": "Why doesn't he understand?"
+      },
+      {
+        "exercise_number": 11,
+        "sentence": "She doesn't send emails.",
+        "answer": "Why doesn't she send emails?"
+      },
+      {
+        "exercise_number": 12,
+        "sentence": "I'm not happy.",
+        "answer": "Why aren't you happy?"
+      },
+      {
+        "exercise_number": 13,
+        "sentence": "I'm not rich.",
+        "answer": "Why aren't you rich?"
+      },
+      {
+        "exercise_number": 14,
+        "sentence": "I'm not going.",
+        "answer": "Why aren't you going?"
+      },
+      {
+        "exercise_number": 15,
+        "sentence": "I'm not talking to him.",
+        "answer": "Why aren't you talking to him."
+      },
+      {
+        "exercise_number": 16,
+        "sentence": "I'm not playing.",
+        "answer": "Why aren't you playing?"
+      },
+      {
+        "exercise_number": 17,
+        "sentence": "He's not coming.",
+        "answer": "Why isn't he coming?"
+      },
+      {
+        "exercise_number": 18,
+        "sentence": "She's not helping.",
+        "answer": "Why isn't she helping."
+      },
+      {
+        "exercise_number": 19,
+        "sentence": "It's not worth it.",
+        "answer": "Why isn't it worth it?"
+      },
+      {
+        "exercise_number": 20,
+        "sentence": "He's not listening to you.",
+        "answer": "Why isn't he listening to you."
+      },
+      {
+        "exercise_number": 21,
+        "sentence": "I can't bring it.",
+        "answer": "Why can't you bring it?"
+      },
+      {
+        "exercise_number": 22,
+        "sentence": "You can't do it.",
+        "answer": "Why can't I do it?"
+      },
+      {
+        "exercise_number": 23,
+        "sentence": "He can't touch it.",
+        "answer": "Why can't he touch it?"
+      },
+      {
+        "exercise_number": 24,
+        "sentence": "She can't close it.",
+        "answer": "Why can't she close it?"
+      },
+      {
+        "exercise_number": 25,
+        "sentence": "It can't last.",
+        "answer": "Why can't it last?"
+      },
+      {
+        "exercise_number": 26,
+        "sentence": "I wouldn't do that.",
+        "answer": "Why wouldn't you do that?"
+      },
+      {
+        "exercise_number": 27,
+        "sentence": "You musn't come.",
+        "answer": "Why musn't I come?"
+      },
+      {
+        "exercise_number": 28,
+        "sentence": "He shouldn't be here.",
+        "answer": "Why shouldn't he be here?"
+      },
+      {
+        "exercise_number": 29,
+        "sentence": "She couldn't meet them.",
+        "answer": "Why couldn't she meet them?"
+      },
+      {
+        "exercise_number": 30,
+        "sentence": "They won't buy it.",
+        "answer": "Why won't they buy it?"
+      }
+    ]
+  },
+  {
+    "section": "Lesson 1",
+    "subsection_number": 2,
+    "subsection_name": "So & Such",
+    "instruction": "Listen to each track and rephrase it using the word 'such' to convey the same meaning.",
+    "language": "en",
+    "exercises": [
+      {
+        "exercise_number": 1,
+        "sentence": "The cake was so big that we couldn't eat it all.",
+        "answer": "It was such a big cake that we couldn't eat it all."
+      },
+      {
+        "exercise_number": 2,
+        "sentence": "The report is so long that nobody is goint to read it.",
+        "answer": "It's such a long report that nobody is goint to read it."
+      },
+      {
+        "exercise_number": 3,
+        "sentence": "The car is so expensive that even my boss couldn't afford it.",
+        "answer": "It's such an expensive car that even my boss couldn't afford it."
+      },
+      {
+        "exercise_number": 4,
+        "sentence": "The speech was so boring that I fell asleep.",
+        "answer": "It was such a boring speech that I fell asleep."
+      },
+      {
+        "exercise_number": 5,
+        "sentence": "The people are so friendly that you'll feel at home.",
+        "answer": "They are such a friendly people that you'll feel at home."
+      },
+      {
+        "exercise_number": 6,
+        "sentence": "The girl was so beautiful that he nearly fainted.",
+        "answer": "She was such a beautiful girl that he nearly fainted."
+      },
+      {
+        "exercise_number": 7,
+        "sentence": "The opera was so long that I got bored.",
+        "answer": "It was such a long opera that I got bored."
+      },
+      {
+        "exercise_number": 8,
+        "sentence": "The drink was so strong that he got drunk quickly.",
+        "answer": "It was such a strong drink that he got drunk quickly."
+      },
+      {
+        "exercise_number": 9,
+        "sentence": "The curry was so spicy that I burned my tongue.",
+        "answer": "It was such a spicy curry that I burned my tongue."
+      },
+      {
+        "exercise_number": 10,
+        "sentence": "The recipe is so simple that my son could make it.",
+        "answer": "It's such a simple recipe that my son could make it."
+      },
+      {
+        "exercise_number": 11,
+        "sentence": "The weather was so bad that we stayed at home.",
+        "answer": "It was such bad weather that we stayed at home."
+      },
+      {
+        "exercise_number": 12,
+        "sentence": "It was such a hard question that he couldn't answer it.",
+        "answer": "The question was so hard that he couldn't answer it."
+      },
+      {
+        "exercise_number": 13,
+        "sentence": "They were such hard questions that we couldn't answer them.",
+        "answer": "The questions were so hard that we couldn't answer them."
+      },
+      {
+        "exercise_number": 14,
+        "sentence": "It was such a good concert that I didn't want it to finish.",
+        "answer": "The concert was so good that I didn't want it to finish."
+      },
+      {
+        "exercise_number": 15,
+        "sentence": "It was such an awful joke that nobody laughed.",
+        "answer": "The joke was so awful that nobody laughed."
+      },
+      {
+        "exercise_number": 16,
+        "sentence": "It's such a well-written book that you won't be able to put it down.",
+        "answer": "The book is so well-written that you won't be able to put it down."
+      },
+      {
+        "exercise_number": 17,
+        "sentence": "They were such professionallooking photos that I bought three.",
+        "answer": "The photos were so professional-looking that I bought three."
+      },
+      {
+        "exercise_number": 18,
+        "sentence": "They're such comfortable chairs that you'll never want to get up.",
+        "answer": "The chairs are so comfortable that you'll never want to get up."
+      }
+    ]
+  },
+  {
+    "section": "Lesson 1",
+    "subsection_number": 3,
+    "subsection_name": "Vocabulary",
+    "instruction": "Listen to each track, then translate the sentence into English while preserving its meaning.",
+    "language": "es",
+    "exercises": [
+      {
+        "exercise_number": 1,
+        "sentence": "No tengo mucho tiempo de ocio.",
+        "answer": "I don't have much leisure time."
+      },
+      {
+        "exercise_number": 2,
+        "sentence": "Necesitamos encontrar un fabricante de fiar.",
+        "answer": "We need to find a reliable manufacturer."
+      },
+      {
+        "exercise_number": 3,
+        "sentence": "Los fabricantes de fiar son escasos.",
+        "answer": "Reliable manufacturers are scarce."
+      },
+      {
+        "exercise_number": 4,
+        "sentence": "Es tranquilizador saber que mi firma no está en el contrato.",
+        "answer": "It's reassuring to know my signature isn't on the contract."
+      },
+      {
+        "exercise_number": 5,
+        "sentence": "El hombre tenía un aspecto amenazador.",
+        "answer": "The man looked threatening."
+      },
+      {
+        "exercise_number": 6,
+        "sentence": "El fabricante ha adoptado el mismo procedimiento.",
+        "answer": "That manufacturer has adopted the same procedure."
+      },
+      {
+        "exercise_number": 7,
+        "sentence": "Es tranquilizador saber que él es tan de fiar.",
+        "answer": "It's reassuring to know he's so reliable."
+      },
+      {
+        "exercise_number": 8,
+        "sentence": "Él es tan de fiar que podemos contar con él para cualquier cosa.",
+        "answer": "He's so reliable that we can count on him for anything."
+      }
+    ]
+  },
+  {
+    "section": "Lesson 1",
+    "subsection_number": 4,
+    "subsection_name": "Numbers",
+    "instruction": "Write down the spelled-out version for each number.",
+    "language": "en",
+    "exercises": [
+      {
+        "exercise_number": 1,
+        "sentence": "1,006",
+        "answer": "One thousand and six."
+      },
+      {
+        "exercise_number": 2,
+        "sentence": "2,365",
+        "answer": "Two thousand, three hundred and sixty-five."
+      },
+      {
+        "exercise_number": 3,
+        "sentence": "3,965",
+        "answer": "Three thousand, nine hundred and sixty-five."
+      },
+      {
+        "exercise_number": 4,
+        "sentence": "7,676",
+        "answer": "Seven thousand, six hundred and seventy-six."
+      },
+      {
+        "exercise_number": 5,
+        "sentence": "1,245,006",
+        "answer": "One million, two hundred and forty-five thousand and six."
+      },
+      {
+        "exercise_number": 6,
+        "sentence": "4,948,845",
+        "answer": "Four million, nine hundred and forty-eight thousand, eight hundred and forty-five."
+      },
+      {
+        "exercise_number": 7,
+        "sentence": "8,475,962",
+        "answer": "Eight million, four hundred and seventy-five thousand, nine hundred and sixty-two."
+      },
+      {
+        "exercise_number": 8,
+        "sentence": "9,006,020",
+        "answer": "Nine million, six thousand and twenty."
+      },
+      {
+        "exercise_number": 9,
+        "sentence": "5,003,005",
+        "answer": "Five million, three thousand and five."
+      },
+      {
+        "exercise_number": 10,
+        "sentence": "18,364,611",
+        "answer": "Eighteen million, three hundred and sixty-four thousand, six hundred and eleven."
+      }
+    ]
+  },
+  {
+    "section": "Lesson 1",
+    "subsection_number": 5,
+    "subsection_name": "To take I",
+    "instruction": "Listen to each track, then translate the sentence into English while preserving its meaning.",
+    "language": "es",
+    "exercises": [
+      {
+        "exercise_number": 1,
+        "sentence": "Se tarda cinco horas en ir de Madrid a Barcelona.",
+        "answer": "It takes five hours to go from Madrid to Barcelona."
+      },
+      {
+        "exercise_number": 2,
+        "sentence": "En avión se tarda una hora.",
+        "answer": "It takes one hour by plane."
+      },
+      {
+        "exercise_number": 3,
+        "sentence": "Se tarda diez minutos en afeitarse.",
+        "answer": "It takes ten minutes to shave."
+      },
+      {
+        "exercise_number": 4,
+        "sentence": "Se tarda un cuarto de hora en preparar un café.",
+        "answer": "It takes fifteen minutes to make a coffee."
+      },
+      {
+        "exercise_number": 5,
+        "sentence": "Se tarda unas 30.000 horas en aprender inglés.",
+        "answer": "It takes 30,000 hours to learn English."
+      },
+      {
+        "exercise_number": 6,
+        "sentence": "Se tarda dos semanas y media en tramitar la solicitud.",
+        "answer": "It takes two and a half weeks to process the application."
+      },
+      {
+        "exercise_number": 7,
+        "sentence": "Se tarda tres meses y medio en completar el curso.",
+        "answer": "It takes three and a half months to complete the course."
+      },
+      {
+        "exercise_number": 8,
+        "sentence": "Se tarda cuatro años y medio en formarse.",
+        "answer": "It takes four and a half years to get trained."
+      },
+      {
+        "exercise_number": 9,
+        "sentence": "Se tarda tres semanas y media en completar la formación.",
+        "answer": "It takes three and a half weeks to complete the training."
+      },
+      {
+        "exercise_number": 10,
+        "sentence": "Se tarda tres minutos y medio en saber los resultados de la prueba.",
+        "answer": "It takes three and a half minutes to find out the results of the test."
+      },
+      {
+        "exercise_number": 11,
+        "sentence": "Se tardó tres años en ganar la guerra.",
+        "answer": "It took three years to win the war."
+      },
+      {
+        "exercise_number": 12,
+        "sentence": "Se tardó cuatro años en reformar la ley.",
+        "answer": "It took four years to reform the law."
+      },
+      {
+        "exercise_number": 13,
+        "sentence": "Se tardó años en arreglar la calle.",
+        "answer": "It took years to repair the road."
+      },
+      {
+        "exercise_number": 14,
+        "sentence": "Se tardó cuatro minutos en calentar la comida.",
+        "answer": "It took four minutes to heat up the food."
+      },
+      {
+        "exercise_number": 15,
+        "sentence": "Se tardó cinco años en preparar el diccionario.",
+        "answer": "It took five years to prepare the dictionary."
+      }
+    ]
+  },
+  {
+    "section": "Lesson 1",
+    "subsection_number": 6,
+    "subsection_name": "To take II",
+    "instruction": "Listen to each track, then translate the sentence into English while preserving its meaning.",
+    "language": "es",
+    "exercises": [
+      {
+        "exercise_number": 1,
+        "sentence": "Tardo diez minutos en hacerlo.",
+        "answer": "It takes me ten minutes to do it."
+      },
+      {
+        "exercise_number": 2,
+        "sentence": "Tardé media hora en terminarlo.",
+        "answer": "It took me half an hour to finish it."
+      },
+      {
+        "exercise_number": 3,
+        "sentence": "Estoy tardando mucho en escribirlo.",
+        "answer": "It's taking me a long time to write it."
+      },
+      {
+        "exercise_number": 4,
+        "sentence": "Él tarda una hora en llegar al trabajo.",
+        "answer": "It takes him an hour to get to work."
+      },
+      {
+        "exercise_number": 5,
+        "sentence": "Tardaré un poco más.",
+        "answer": "It will take me a little longer."
+      },
+      {
+        "exercise_number": 6,
+        "sentence": "Tardaremos una semana.",
+        "answer": "It will take us a week."
+      },
+      {
+        "exercise_number": 7,
+        "sentence": "Tardaron más de un mes.",
+        "answer": "It took them more than a month."
+      },
+      {
+        "exercise_number": 8,
+        "sentence": "Vamos a tardar cinco minutos.",
+        "answer": "It's going to take us five minutes."
+      },
+      {
+        "exercise_number": 9,
+        "sentence": "He tardado tres horas.",
+        "answer": "It's taken me three hours."
+      },
+      {
+        "exercise_number": 10,
+        "sentence": "Él no tarda mucho.",
+        "answer": "It doesn't take him long."
+      },
+      {
+        "exercise_number": 11,
+        "sentence": "No tardaron mucho.",
+        "answer": "It didn't take them long."
+      },
+      {
+        "exercise_number": 12,
+        "sentence": "Tardaré una hora en llegar.",
+        "answer": "It will take me an hour to arrive."
+      },
+      {
+        "exercise_number": 13,
+        "sentence": "Él está tardando demasiado.",
+        "answer": "It's taking him too long."
+      },
+      {
+        "exercise_number": 14,
+        "sentence": "Ella tardó diez minutos.",
+        "answer": "It took her ten minutes."
+      },
+      {
+        "exercise_number": 15,
+        "sentence": "No han tardado una hora.",
+        "answer": "It hasn't taken them an hour."
+      },
+      {
+        "exercise_number": 16,
+        "sentence": "Hemos tardado más.",
+        "answer": "It's taken us longer."
+      },
+      {
+        "exercise_number": 17,
+        "sentence": "¿Tardaste mucho?",
+        "answer": "Did it take you long?"
+      },
+      {
+        "exercise_number": 18,
+        "sentence": "¿Tardaron todo el día?",
+        "answer": "Did it take them all day?"
+      },
+      {
+        "exercise_number": 19,
+        "sentence": "¿Tardas mucho?",
+        "answer": "Does it take you long?"
+      },
+      {
+        "exercise_number": 20,
+        "sentence": "¿Tardaremos mucho?",
+        "answer": "Will it take us long?"
+      }
+    ]
+  },
+  {
+    "section": "Lesson 1",
+    "subsection_number": 7,
+    "subsection_name": "To take III",
+    "instruction": "Listen to each track, then translate the sentence into English while preserving its meaning.",
+    "language": "es",
+    "exercises": [
+      {
+        "exercise_number": 1,
+        "sentence": "¿Cuánto tiempo tardas en hacerlo?",
+        "answer": "How long does it take you to do it?"
+      },
+      {
+        "exercise_number": 2,
+        "sentence": "¿Cuánto tiempo tardaréis en llegar?",
+        "answer": "How long will it take you to arrive?"
+      },
+      {
+        "exercise_number": 3,
+        "sentence": "¿Cuánto tiempo han tardado hasta ahora?",
+        "answer": "How long has it taken them so far?"
+      },
+      {
+        "exercise_number": 4,
+        "sentence": "¿Cuánto tiempo van a tardar?",
+        "answer": "How long is it going to take them?"
+      },
+      {
+        "exercise_number": 5,
+        "sentence": "¿Cuánto tiempo tardaremos en terminarlo?",
+        "answer": "How long will it take us to finish it?"
+      },
+      {
+        "exercise_number": 6,
+        "sentence": "¿Cuánto tiempo tardaron en construirlo?",
+        "answer": "How long did it take them to build it?"
+      }
+    ]
+  },
+  {
+    "section": "Lesson 1",
+    "subsection_number": 8,
+    "subsection_name": "To count on",
+    "instruction": "Listen to each track, then translate the sentence into English while preserving its meaning.",
+    "language": "es",
+    "exercises": [
+      {
+        "exercise_number": 1,
+        "sentence": "¿Puedo contar contigo?",
+        "answer": "Can I count on you?"
+      },
+      {
+        "exercise_number": 2,
+        "sentence": "No cuentes con ellos.",
+        "answer": "Don't count on them."
+      },
+      {
+        "exercise_number": 3,
+        "sentence": "No podemos contar con su apoyo.",
+        "answer": "We can't count on his support."
+      },
+      {
+        "exercise_number": 4,
+        "sentence": "Puedes contar conmigo.",
+        "answer": "You can count on me."
+      },
+      {
+        "exercise_number": 5,
+        "sentence": "¿Crees que podemos contar con ella?",
+        "answer": "Do you think we can count on her?"
+      },
+      {
+        "exercise_number": 6,
+        "sentence": "Él es una persona tan de fiar que podemos contar con él para cualquier cosa.",
+        "answer": "He's such a reliable person that we can count on him for anything."
+      }
+    ]
+  }
+]
