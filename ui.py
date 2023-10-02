@@ -47,14 +47,6 @@ def show_subsection(selected_subsection_data, disable_button):
 
     exercises = selected_subsection_data.get('exercises')
 
-    # Get the current page section number from the query parameters
-    query_params = st.experimental_get_query_params()
-    # Get the current exercise number from the query parameters
-    st.session_state['current_exercise'] = int(query_params["exercise"][0]) if "exercise" in query_params else 1
-    
-    # Set the query parameters to navigate to the selected section
-    st.experimental_set_query_params(subsection=st.session_state['current_subsection'], exercise=st.session_state['current_exercise'])
-
     # Create buttons to navigate to the next and previous exercises
     col1, _, col2 = st.columns([1, 0.2, 1])
     with col1:

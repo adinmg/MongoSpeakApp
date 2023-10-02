@@ -23,22 +23,26 @@ json_data = load_sections(box_sidebar_section)
 
 # Create a dictionary of subsection names and subsection numbers from the JSON data
 subsection_number = {item.get('subsection_name'): item.get('subsection_number') for item in json_data}
-# subsection_names = {number: name for name, number in subsection_number.items()}
 
 # Get the current page section number from the query parameters
 query_params = st.experimental_get_query_params()
 
 # Initialize subsection_number in session state
 st.session_state['current_subsection'] = int(query_params['subsection'][0]) if 'subsection' in query_params else 1
+# Get the current exercise number from the query parameters
+st.session_state['current_exercise'] = int(query_params["exercise"][0]) if "exercise" in query_params else 1
 
 # Sidebar content - Select the subsection
-box_sidebar_subsections = st.sidebar.selectbox(label="Subsections", index=st.session_state['current_subsection']-1, options=list(subsection_number.keys()))
+box_sidebar_subsections = st.sidebar.selectbox(label="Subsections", options=list(subsection_number.keys()))
 
 # Update subsection number if it changes
 st.session_state['current_subsection'] = subsection_number[box_sidebar_subsections]
 
 # Find the selected subsection data
-selected_subsection_data = next((item for item in json_data if item['subsection_name'] == box_sidebar_subsections), None)
+selected_subsection_data = json_data[st.session_state['current_subsection']-1]
+
+# Set the query parameters to navigate to the selected section
+st.experimental_set_query_params(subsection=st.session_state['current_subsection'], exercise=st.session_state['current_exercise'])
 
 # Main content
 intro = st.empty()
